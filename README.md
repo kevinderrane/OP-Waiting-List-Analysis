@@ -1,6 +1,8 @@
 # OP-Waiting-List-Analysis
 Analysis of “OP Waiting List” datasets available at National Open Data Portal from data.gov.ie
 
+Open OP-Waiting-List-Analysis.md
+
 The task for the student here is to develop an R or Python program to process OP Waiting List*
 available on National Open Data portal (http://data.gov.ie/). This involves connecting to the CKAN
 platform and accessing the datasets and associated files for each year on the portal. In addition, the
