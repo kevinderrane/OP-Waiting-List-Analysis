@@ -1,5 +1,5 @@
 # OP-Waiting-List-Analysis
-Analysis of “OP Waiting List” datasets available at National Open Data Portal from data.gov.ie
+An analysis of outpatient waiting list datasets available at National Open Data Portal from data.gov.ie
 
 Open OP-Waiting-List-Analysis.md
 
