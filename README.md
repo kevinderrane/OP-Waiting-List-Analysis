@@ -1,8 +1,11 @@
 # OP-Waiting-List-Analysis
-An analysis of outpatient waiting list datasets available at National Open Data Portal from data.gov.ie
+An analysis of Outpatient waiting list datasets available at National Open Data Portal from data.gov.ie 
 
-Open OP-Waiting-List-Analysis.md
+This was part of an assignment for the Case Studeis in Data Analytics module as part of the Msc in Data Analytics. 
 
+The assignment can be seen by opening OP-Waiting-List-Analysis.md
+
+### Assignment details: 
 The task for the student here is to develop an R or Python program to process OP Waiting List*
 available on National Open Data portal (http://data.gov.ie/). This involves connecting to the CKAN
 platform and accessing the datasets and associated files for each year on the portal. In addition, the
