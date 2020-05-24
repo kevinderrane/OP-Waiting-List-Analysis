@@ -1,7 +1,7 @@
 # OP-Waiting-List-Analysis
 An analysis of Outpatient waiting list datasets available at National Open Data Portal from data.gov.ie 
 
-This was part of an assignment for the Case Studeis in Data Analytics module as part of the Msc in Data Analytics. 
+This was part of an assignment for the Case Studeis in Data Analytics module as part of the MSc in Data Analytics. 
 
 The assignment can be seen by opening OP-Waiting-List-Analysis.md
 
